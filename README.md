@@ -52,12 +52,14 @@ Digite o número da conta: 12345
 Digite a agência: 6789  
 Digite o saldo: 1000.50  
 Digite o tipo da conta (Corrente/Poupanca/Salario): Corrente
-
+```
 
 ### Saída
+```
 Conta adicionada à fila!  
-
+```
 ## Vizualizando a Fila
+````
 Escolha a opção:  
 2  
 Contas na fila:  
