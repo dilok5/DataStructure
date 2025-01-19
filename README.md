@@ -38,9 +38,10 @@ Execute o programa:
    - **Remover conta**: Retira a conta mais antiga (no início da fila).  
 3. Ao sair, a memória alocada para a fila é liberada.  
 
-## 📂 Exemplo de Uso  
+### 📂 Exemplo de Uso
 
-### Entrada  
+#### Entrada:
+```plaintext
 Escolha a opção:  
 1. Zerar FILA  
 2. Exibir FILA  
@@ -50,7 +51,8 @@ Opção: 3
 Digite o número da conta: 12345  
 Digite a agência: 6789  
 Digite o saldo: 1000.50  
-Digite o tipo da conta (Corrente/Poupanca/Salario): Corrente  
+Digite o tipo da conta (Corrente/Poupanca/Salario): Corrente
+
 
 ### Saída
 Conta adicionada à fila!  
